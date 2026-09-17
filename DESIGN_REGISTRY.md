@@ -1,0 +1,22 @@
+# DESIGN REGISTRY • CORK POCHETTE
+
+- **Domain:** `corkpochette` (`corkpochette.com`)
+- **Niche/Category:** `Luxury Bag` (Bespoke Cork Leather Pochettes & Haute Maroquinerie)
+- **Theme Archetype:** #6 • Warm Sepia Workshop & Raw Bark Terracotta / Cognac Gold (`warm_sepia_maroquinerie`)
+- **Hero Composition:** Asymmetric Floating Saddle-Stitch Inset with Suberin Hydrophobic Telemetry & Dimension Customizer
+- **Color Palette:**
+  - Base Background: `#120e0b` (Charred Oak / Deep Bark Umber)
+  - Surface Card: `#1c1612` (Raw Sepia Workshop Surface)
+  - Card / Raised: `#261f1a` (Warm Cognac Leather Elevation)
+  - Primary Accent: `#d48b50` (Raw Terracotta Cork / Sunbaked Suberin)
+  - Secondary Accent: `#e6c280` (Aged Gilded Brass / Gilded Hardware)
+  - Text Primary: `#f7f2eb` (Bleached Linen / Warm Alabaster)
+  - Text Secondary: `#a89a8d` (Aged Parchment)
+  - Border Subtle: `#382d25` (Waxed Thread Stitch Line)
+- **Typography:**
+  - Headings: `Fraunces` (Google Fonts via `<link>`)
+  - Body: `Outfit` (Google Fonts via `<link>`)
+  - Monospace Telemetry: `Space Mono` (Google Fonts via `<link>`)
+- **Architecture:** 100% Static HTML, Zero PHP, sticky blur header, synced drawer, 3 long-form treatises (>1,200 words), calibrated 5-6 line policies.
+- **Institutional Contact:** 181 Mercer Street, New York, NY 10012, United States | +1-888-777-5845 | Tag: `G-0LY0HY7L01`.
+- **Google Ads Compliance:** Certified 100% clean of forbidden finance, real estate, biochemicals, cosmetics, and alcohol content (zero wine/bottle references; pure botanical suberin leathercraft).
